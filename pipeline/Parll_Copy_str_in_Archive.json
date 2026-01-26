@@ -130,7 +130,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataset": {
-						"referenceName": "Binary2",
+						"referenceName": "Binary3",
 						"type": "DatasetReference"
 					},
 					"logStorageSettings": {
