@@ -1,5 +1,5 @@
 {
-	"name": "pipeline3",
+	"name": "IF_Condition-with Mdata ppln Exec",
 	"properties": {
 		"activities": [
 			{
@@ -24,6 +24,7 @@
 					],
 					"storeSettings": {
 						"type": "AzureBlobStorageReadSettings",
+						"recursive": true,
 						"enablePartitionDiscovery": false
 					},
 					"formatSettings": {
